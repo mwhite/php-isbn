@@ -1,0 +1,11 @@
+{
+    "name": "php-isbn/php-isbn",
+    "description": "A library for manipulating ISBNs",
+    "keywords": ["isbn"],
+    "license": "MIT",
+
+    "autoload": {
+        "files": ["Isbn.php"]
+    }
+    
+}
